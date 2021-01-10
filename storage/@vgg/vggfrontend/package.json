@@ -1,0 +1,48 @@
+{
+	"name": "@vgg/vggfrontend",
+	"versions": {
+		"1.0.0": {
+			"name": "@vgg/vggfrontend",
+			"version": "1.0.0",
+			"description": "Venture Garden Group UI/UX",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [],
+			"author": {
+				"name": "VGG UI/UX"
+			},
+			"license": "ISC",
+			"_id": "@vgg/vggfrontend@1.0.0",
+			"_nodeVersion": "10.19.0",
+			"_npmVersion": "6.13.4",
+			"dist": {
+				"integrity": "sha512-EX+oEPoeP4far6mb086hPZ0pUNBnRfk0dy54H4ScMX1zVoLf+S29jHn7gGs6d3lOoGZF97wbIEtkCDMBx/IFyw==",
+				"shasum": "7927917cec927f4a7a8bc07fd558373d13de9f38",
+				"tarball": "http://localhost:4873/@vgg/vggfrontend/-/@vgg/vggfrontend-1.0.0.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2021-01-10T21:28:26.543Z",
+		"created": "2021-01-10T21:28:26.543Z",
+		"1.0.0": "2021-01-10T21:28:26.543Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"vggfrontend-1.0.0.tgz": {
+			"shasum": "7927917cec927f4a7a8bc07fd558373d13de9f38",
+			"version": "1.0.0"
+		}
+	},
+	"_rev": "3-f8e6638cdb522229",
+	"_id": "@vgg/vggfrontend",
+	"readme": "ERROR: No README data found!"
+}

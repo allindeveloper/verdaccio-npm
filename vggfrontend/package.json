@@ -1,0 +1,12 @@
+{
+    "name": "@vgg/vggfrontend",
+    "version": "1.0.0",
+    "description": "Venture Garden Group UI/UX",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "VGG UI/UX",
+    "license": "ISC"
+  }
